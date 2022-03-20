@@ -1,0 +1,24 @@
+#profile-picture{
+    border-radius: 50%;
+    align-self: center;
+}
+
+#menu > #menu-center{
+    display:flex;
+}
+
+#menu > #menu-center > h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    align-self: center;
+}
+
+#menu > #menu-bottom > nav{
+    margin-left: 65px;
+}
+
+#menu > #menu-bottom > nav a{
+    margin-left: 5px;
+    margin-right: 5px;
+}
