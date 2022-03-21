@@ -1,6 +1,46 @@
+*{
+    font-family: "Roboto", "Arial";
+}
+
 #profile-picture{
     border-radius: 50%;
     align-self: center;
+}
+
+hr{
+    margin:0px;
+}
+
+h3{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+li{
+    color: white;
+}
+
+a{
+    color: white;
+}
+
+body{
+    background-color: rgb(26, 27, 30);
+    margin: 0;
+}
+
+#content{
+    padding: 10px;
+}
+
+#menu{
+    background-color: rgb(20,21,23);
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 #menu > #menu-center{
@@ -8,6 +48,7 @@
 }
 
 #menu > #menu-center > h1{
+    color: white;
     margin-top: 0px;
     margin-bottom: 0px;
     margin-left: 10px;
@@ -19,6 +60,20 @@
 }
 
 #menu > #menu-bottom > nav a{
+    color: white;
     margin-left: 5px;
     margin-right: 5px;
+}
+
+#fotos{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+#fotos > img{
+    border-radius: 5%;
+    height: 400px;
 }
