@@ -60,12 +60,12 @@ body{
 }
 
 .button{
-    color: white;
+    color: black;
     margin-left: 1px;
     margin-right: 1px;
-    background-color: rgb(38, 39, 42);
-    padding: 4px;
-    border-radius: 4%;
+    background-color: #3ea6ff;
+    padding: 7px;
+    border-radius: 5PX;
     text-decoration: none;
     margin-left: 20px;
 }
@@ -100,6 +100,18 @@ body{
     background-color: rgb(20, 20, 20);
     border-radius: 10px;
     flex-wrap: wrap;
+}
+
+.certificado-items img{
+    width: 280px;
+    height: 200px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border-color: rgb(139, 139, 139);
+    border-width: 8px;
+    border-style: solid;
 }
 
 .galery p{
