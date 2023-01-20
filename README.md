@@ -6,4 +6,4 @@
 <img height="180em" src="https://github-readme-stats-eight-lac.vercel.app/api?username=MarcosMaga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-[![Spotify](https://novatorem-teal-two.vercel.app/api/spotify)](https://open.spotify.com/user/22lgtynmtphzxbooilctdqxdi?si=4d968bcf7282462f&nd)
+[![Spotify](https://novatorem-teal-two.vercel.app/api/spotify)](https://open.spotify.com/user/22lgtynmtphzxbooilctdqxdi)
