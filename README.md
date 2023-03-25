@@ -1,5 +1,9 @@
 ### Olá, bem vindo ao meu perfil do GitHub :D
 
+Sou um Desenvolvedor, gosto de ser generalista e conhecer sobre varias áreas da tecnologia, por isso, sei fazer um pouco de tudo! Da eletronica a robótica, da programação de baixo nivel até a de alto nível. Veja alguns dos meus conhecimentos: 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c#)](https://skillicons.dev)
+
 <div>
 <a href="https://github.com/MarcosMaga">
 <img height="180em" src="https://github-readme-stats-eight-lac.vercel.app/api/top-langs/?username=MarcosMaga&layout=compact&langs_count=7&theme=dracula"/>
