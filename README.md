@@ -4,11 +4,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,cs,arduino,raspberrypi,dotnet,expressjs,visualstudio,vscode,firebase,git,github,java,mysql,nodejs,php,react,unity)](https://skillicons.dev)
  
- 😎🤏 <br>
- 😲🕶🤏 <br>
- 😎🤏 <br>
-
-
 <div>
 <a href="https://github.com/MarcosMaga">
 <img height="180em" src="https://github-readme-stats-eight-lac.vercel.app/api/top-langs/?username=MarcosMaga&layout=compact&langs_count=7&theme=dracula"/>
