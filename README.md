@@ -20,6 +20,16 @@ Veja o meu <a href="https://drive.google.com/file/d/1W7-_--TCyr94pbd98OB_b1cRMJY
 
  ### Feiras de Ciências e Olimpíadas de Tecnologia
  🚀 Devido a minha atuação na área cientifica, participei de algumas feiras de ciencias e olimpíadas relacionadas a tecnologia. Consegui ser pleiteado em algumas delas!
+ <br><br>
+ <b>- Feiras de Ciências</b>
+ <ul>
+  <li>🥇 Movimento Inova (2019)</li>
+  <li>🥇 Feria Internacional de Tecnología Para La Inclusión (2021)</li>
+  <li>🥇 Fatec Portas Abertas (2019)</li>
+  <li>🥈 ExpoEnsino (2018)</li>
+  <li>🥉 Expo Milset Brasil (2021)</li>
+  <li>🥉 ProjETE (2019)</li>
+ </ul
  
-### Nem só de <strong>código</strong> vive o homem 😎!  
+### Nem só de <strong>código</strong> vive o homem 😎!
 [![Spotify](https://novatorem-ij6667go4-marcosmaga.vercel.app/api/spotify)](https://open.spotify.com/user/22lgtynmtphzxbooilctdqxdi)
