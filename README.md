@@ -29,7 +29,12 @@ Veja o meu <a href="https://drive.google.com/file/d/1W7-_--TCyr94pbd98OB_b1cRMJY
   <li>🥈 ExpoEnsino (2018)</li>
   <li>🥉 Expo Milset Brasil (2021)</li>
   <li>🥉 ProjETE (2019)</li>
- </ul
+ </ul>
+ <b>- Olimpíadas</b>
+ <ul>
+  <li>🥇 Olimpíadas Brasileira de Robótica: Escolas Públicas (2019)</li>
+  <li>🥇 Olimpíadas Regional de Robótica: Ensino Médio (2019)</li>
+ </ul>
  
 ### Nem só de <strong>código</strong> vive o homem 😎!
 [![Spotify](https://novatorem-ij6667go4-marcosmaga.vercel.app/api/spotify)](https://open.spotify.com/user/22lgtynmtphzxbooilctdqxdi)
