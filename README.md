@@ -23,6 +23,7 @@ Veja o meu <a href="https://drive.google.com/file/d/1W7-_--TCyr94pbd98OB_b1cRMJY
  <br><br>
  <b>- Feiras de Ciências</b>
  <ul>
+  <li>🥇 ExpoSciences Asia Milset (2022)</li>
   <li>🥇 Movimento Inova (2019)</li>
   <li>🥇 Feria Internacional de Tecnología Para La Inclusión (2021)</li>
   <li>🥇 Fatec Portas Abertas (2019)</li>
