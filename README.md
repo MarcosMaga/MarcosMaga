@@ -47,7 +47,34 @@ Veja o meu <a href="https://drive.google.com/file/d/1W7-_--TCyr94pbd98OB_b1cRMJY
  <b>- Reconhecimentos</b>
  <ul>
   <li>📧 <a href="https://drive.google.com/drive/folders/13opwyF4uNEW-V7AA06r1kiIfRgKLP8_Q?usp=share_link" target="_blank">Moção de Aplausos e Congratulações</a></li>
+  <li>📰 <a href="https://www.linkedin.com/feed/update/urn:li:activity:6861031640571908096/" target="_blank">Matéria de Jornal "O Popular"</a></li>
  </ul>
+ 
+ <b>- Participação em Eventos</b>
+ <ul>
+  <li><a href="https://www.youtube.com/watch?v=ybmebNx_m7U&list=LL&index=20&t=556s&ab_channel=CentrodeM%C3%ADdiasSP" target="_blank">📺 Dia D Movimento Inova (TV Cultura)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=OSypROzmZls&list=LL&index=19&ab_channel=CentrodeM%C3%ADdiasSP" target="_blank">📺 Abertura Movimento Inova 2020 (TV Cultura)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=8uNiyWcFJLI&list=LL&index=19&ab_channel=GrandeGrupodePesquisa" target="_blank">🎙 É possível fazer Pesquisa Científica no Ensino Médio?</a></li>
+ </ul>
+ 
+ ### Ensino e Estudos
+ 
+ <b>Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Campinas</b>
+ <ol>
+  <li>Semestre ✔ (2021)</li>
+  <li>Semestre ✔ (2022)</li>
+  <li>Semestre ✔ (2022)</li>
+  <li>Semestre ⏳ (2023)</li>
+  <li>Semestre ❌</li>
+  <li>Semestre ❌</li>
+ </ol>
+ 
+ 🔴🟩🟩<br>
+ 🟩🟩<br>
+ 🟩🟩🟩<br>
+ 🟩🟩<br>
  
 ## Nem só de <strong>código</strong> vive o homem 😎!
 [![Spotify](https://novatorem-ij6667go4-marcosmaga.vercel.app/api/spotify)](https://open.spotify.com/user/22lgtynmtphzxbooilctdqxdi)
+ <br>
+👆 Variações de Rock, Metal, Reggae e MPB! 🔈
