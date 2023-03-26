@@ -14,7 +14,7 @@ Veja o meu <a href="https://drive.google.com/file/d/1W7-_--TCyr94pbd98OB_b1cRMJY
  
  ## Minha relação com a tecnologia 🤖
  
- 🚀 Comecei a estudar programação (C#) com 11 anos de idade com o desejo de ser um <a href="https://play.google.com/store/apps/details?id=air.BlackHole6.A0&hl=pt_PT&gl=US" target="_blank"><b>desenvolvedor de Jogos</b></a>, aos 17 me tornei pesquisador na área de tecnologia e finalizei minha carreira na ciência em fevereiro 2022 após apresentar <a href="https://www.youtube.com/watch?v=To8yog_hUL4&t=26s&ab_channel=MarcosMagalh%C3%A3es"><b>minha pesquisa</a></b> na ExpoSciences Asia Milset que aconteceu no Emirados de Dubai. Desde então dedico meu tempo e estudos ao mercado de trabalho.
+ 🚀 Comecei a estudar programação (C#) com 11 anos de idade com o desejo de ser um <a href="https://play.google.com/store/apps/details?id=air.BlackHole6.A0&hl=pt_PT&gl=US" target="_blank"><b>desenvolvedor de Jogos</b></a>, aos 17 me tornei pesquisador na área de tecnologia e finalizei minha carreira na ciência em fevereiro 2022 após apresentar <a href="https://www.youtube.com/watch?v=To8yog_hUL4&t=26s&ab_channel=MarcosMagalh%C3%A3es"><b>minha pesquisa</a></b> na ExpoSciences Asia Milset que aconteceu no Emirado de Dubai. Desde então dedico meu tempo e estudos ao mercado de trabalho.
 
  ### Feiras de Ciências e Olimpíadas de Tecnologia
  🚀 Devido a minha atuação na área cientifica, participei de algumas feiras de ciencias e olimpíadas relacionadas a tecnologia. Consegui ser pleiteado em algumas delas!
@@ -76,10 +76,10 @@ Veja o meu <a href="https://drive.google.com/file/d/1W7-_--TCyr94pbd98OB_b1cRMJY
  
 ## Experiências Profissionais
  <b>Estagiário de Engenharia Elétrica (jul de 2019 - ago de 2019)</b><br>
- HomeCarbon Energy Solutions<br><br>
+ HomeCarbon Energy Solutions<br>
  
  <b>Trainee de Desenvolvimento e Tecnologia (ago de 2021 - abr de 2022)</b><br>
- HomeCarbon Energy Solutions<br><br>
+ HomeCarbon Energy Solutions<br>
  
  <b>Ycons IT Consulting</b>
  <ul>
