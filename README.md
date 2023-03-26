@@ -1,4 +1,4 @@
-### Olá, bem vindo ao meu perfil do GitHub :D
+## Olá, bem vindo ao meu perfil do GitHub :D
 
 🚀 Sou um Desenvolvedor, gosto de ser generalista e conhecer sobre varias áreas da tecnologia, por isso, sei fazer um pouco de tudo! Da eletronica a robótica, da programação de baixo nivel até a de alto nível. Veja alguns dos meus conhecimentos: 
 
@@ -12,13 +12,13 @@
 Veja o meu <a href="https://drive.google.com/file/d/1W7-_--TCyr94pbd98OB_b1cRMJYodpyx/view?usp=share_link" target="_blank"><b>curriculo</b></a> para me conhecer além do GitHub.
 <br><br>
  
- ### Minha relação com a tecnologia 🤖
+ ## Minha relação com a tecnologia 🤖
  
  🚀 Comecei a estudar programação (C#) com 11 anos de idade com o desejo de ser um <a href="https://play.google.com/store/apps/details?id=air.BlackHole6.A0&hl=pt_PT&gl=US" target="_blank"><b>desenvolvedor de Jogos</b></a>, aos 17 me tornei pesquisador na área de tecnologia e finalizei minha carreira na ciência em fevereiro 2022 após apresentar <a href="https://www.youtube.com/watch?v=To8yog_hUL4&t=26s&ab_channel=MarcosMagalh%C3%A3es"><b>minha pesquisa</a></b> na ExpoSciences Asia Milset que aconteceu no Emirados de Dubai. Desde então dedico meu tempo e estudos ao mercado de trabalho.
 <br>
 <br>
 
- ## Feiras de Ciências e Olimpíadas de Tecnologia
+ ### Feiras de Ciências e Olimpíadas de Tecnologia
  🚀 Devido a minha atuação na área cientifica, participei de algumas feiras de ciencias e olimpíadas relacionadas a tecnologia. Consegui ser pleiteado em algumas delas!
  
 ### Nem só de <strong>código</strong> vive o homem 😎!  
