@@ -29,8 +29,9 @@ Veja o meu <a href="https://drive.google.com/file/d/1W7-_--TCyr94pbd98OB_b1cRMJY
   <li>🥉 Expo Milset Brasil (2021)</li>
   <li>🥉 ProjETE (2019)</li>
  </ul>
- <b>- Olimpíadas</b><br>
+ <b>- Olimpíadas</b>
  <ul>
+  <br>
   <li>🥇 Olimpíadas Brasileira de Robótica: Escolas Públicas (2019)</li>
   <li>🥇 Olimpíadas Regional de Robótica: Ensino Médio (2019)</li>
  </ul>
