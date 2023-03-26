@@ -18,8 +18,8 @@ Veja o meu <a href="https://drive.google.com/file/d/1W7-_--TCyr94pbd98OB_b1cRMJY
 <br>
 <br>
 
- 🚀 <b>Feiras de Ciências e Olimpíadas de Tecnologia</b> <br>
- Devido a minha atuação na área cientifica, participei de algumas feiras de ciencias e olimpíadas relacionadas a tecnologia. Consegui ser pleiteado em algumas delas!
+ ## Feiras de Ciências e Olimpíadas de Tecnologia
+ 🚀 Devido a minha atuação na área cientifica, participei de algumas feiras de ciencias e olimpíadas relacionadas a tecnologia. Consegui ser pleiteado em algumas delas!
  
 ### Nem só de <strong>código</strong> vive o homem 😎!  
 [![Spotify](https://novatorem-ij6667go4-marcosmaga.vercel.app/api/spotify)](https://open.spotify.com/user/22lgtynmtphzxbooilctdqxdi)
