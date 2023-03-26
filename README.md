@@ -15,8 +15,6 @@ Veja o meu <a href="https://drive.google.com/file/d/1W7-_--TCyr94pbd98OB_b1cRMJY
  ## Minha relação com a tecnologia 🤖
  
  🚀 Comecei a estudar programação (C#) com 11 anos de idade com o desejo de ser um <a href="https://play.google.com/store/apps/details?id=air.BlackHole6.A0&hl=pt_PT&gl=US" target="_blank"><b>desenvolvedor de Jogos</b></a>, aos 17 me tornei pesquisador na área de tecnologia e finalizei minha carreira na ciência em fevereiro 2022 após apresentar <a href="https://www.youtube.com/watch?v=To8yog_hUL4&t=26s&ab_channel=MarcosMagalh%C3%A3es"><b>minha pesquisa</a></b> na ExpoSciences Asia Milset que aconteceu no Emirados de Dubai. Desde então dedico meu tempo e estudos ao mercado de trabalho.
-<br>
-<br>
 
  ### Feiras de Ciências e Olimpíadas de Tecnologia
  🚀 Devido a minha atuação na área cientifica, participei de algumas feiras de ciencias e olimpíadas relacionadas a tecnologia. Consegui ser pleiteado em algumas delas!
@@ -37,5 +35,18 @@ Veja o meu <a href="https://drive.google.com/file/d/1W7-_--TCyr94pbd98OB_b1cRMJY
   <li>🥇 Olimpíadas Regional de Robótica: Ensino Médio (2019)</li>
  </ul>
  
-### Nem só de <strong>código</strong> vive o homem 😎!
+ ### Reconhecimentos e Trabalhos Voluntários
+ <b>- Trabalhos Voluntários</b>
+ <ul>
+  <li>👨‍🏫 Professor de Desenvolvimento de Jogos (2017)</li>
+  <li>👨‍🏫 Professor de Robótica (2019)</li>
+  <li>👨‍🏫 Aluno Mentor de Linguagem de Programação C (2021)</li>
+ </ul>
+ 
+ <b>- Reconhecimentos</b>
+ <ul>
+  <li>📧 <a href="https://drive.google.com/drive/folders/13opwyF4uNEW-V7AA06r1kiIfRgKLP8_Q?usp=share_link" target="_blank">Moção de Aplausos e Congratulações</a></li>
+ </ul>
+ 
+## Nem só de <strong>código</strong> vive o homem 😎!
 [![Spotify](https://novatorem-ij6667go4-marcosmaga.vercel.app/api/spotify)](https://open.spotify.com/user/22lgtynmtphzxbooilctdqxdi)
