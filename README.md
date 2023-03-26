@@ -65,14 +65,28 @@ Veja o meu <a href="https://drive.google.com/file/d/1W7-_--TCyr94pbd98OB_b1cRMJY
   <li>Semestre ✔ (2022)</li>
   <li>Semestre ✔ (2022)</li>
   <li>Semestre ⏳ (2023)</li>
-  <li>Semestre ❌</li>
-  <li>Semestre ❌</li>
+  <li>Semestre ❌ (2023)</li>
+  <li>Semestre ❌ (2024)</li>
  </ol>
  
  🔴🟩🟩<br>
  🟩🟩<br>
  🟩🟩🟩<br>
  🟩🟩<br>
+ 
+## Experiências Profissionais
+ <b>Estagiário de Engenharia Elétrica (jul de 2019 - ago de 2019)</b><br>
+ HomeCarbon Energy Solutions<br><br>
+ 
+ <b>Trainee de Desenvolvimento e Tecnologia (ago de 2021 - abr de 2022)</b><br>
+ HomeCarbon Energy Solutions<br><br>
+ 
+ <b>Ycons IT Consulting</b>
+ <ul>
+  <li>Estagiário de Desenvolvimento de Programas (out de 2021 - mai de 2022)</li>
+  <li>Desenvolvedor de Software Júnior (mai de 2022 - dez de 2022)<br><b>Competências</b>Node.js · React.js · MySQL</li>
+  <li>Desenvolvedor Full-Stack (dez de 2022 - atual)<br><b>Competências</b>CodeIgniter · Node.js · React.js · MySQL</li>
+ </ul>
  
 ## Nem só de <strong>código</strong> vive o homem 😎!
 [![Spotify](https://novatorem-ij6667go4-marcosmaga.vercel.app/api/spotify)](https://open.spotify.com/user/22lgtynmtphzxbooilctdqxdi)
