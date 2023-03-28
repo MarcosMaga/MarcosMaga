@@ -1,6 +1,6 @@
 ## Olá, bem vindo ao meu perfil do GitHub 😁
 
-🚀 Sou um Desenvolvedor, gosto de ser generalista e conhecer sobre varias áreas da tecnologia, por isso, sei fazer um pouco de tudo! Da eletronica a robótica, da programação de baixo nivel até a de alto nível. Veja alguns dos meus conhecimentos: 
+🚀 Sou um <b>Programador</b>, gosto de ser generalista e conhecer sobre varias áreas da tecnologia, por isso, sei fazer um pouco de tudo! Da eletronica a robótica, da programação de baixo nivel até a de alto nível. Veja alguns dos meus conhecimentos: 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,cs,arduino,raspberrypi,dotnet,expressjs,visualstudio,vscode,firebase,git,github,java,mysql,nodejs,php,react,unity)](https://skillicons.dev)
  
