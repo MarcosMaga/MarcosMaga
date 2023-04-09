@@ -74,6 +74,8 @@ Veja o meu <a href="https://drive.google.com/file/d/1W7-_--TCyr94pbd98OB_b1cRMJY
  🟩🟩🟩<br>
  🟩🟩<br>
  
+ IFSP - Campinas 
+ 
 ## Experiências Profissionais
  <b>Estagiário de Engenharia Elétrica (jul de 2019 - ago de 2019)</b><br>
  HomeCarbon Energy Solutions<br>
