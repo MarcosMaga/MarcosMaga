@@ -86,8 +86,8 @@ Veja o meu <a href="https://drive.google.com/file/d/1W7-_--TCyr94pbd98OB_b1cRMJY
  <b>Ycons IT Consulting</b>
  <ul>
   <li>Estagiário de Desenvolvimento de Programas (out de 2021 - mai de 2022)</li>
-  <li>Desenvolvedor de Software Júnior (mai de 2022 - dez de 2022)<br><b>Competências: </b><i>Node.js · React.js · MySQL</i></li>
-  <li>Desenvolvedor Full-Stack (dez de 2022 - atual)<br><b>Competências: </b><i>CodeIgniter · Node.js · React.js · MySQL</i></li>
+  <li>Desenvolvedor de Software Júnior (mai de 2022 - dez de 2022)<br><b>Competências: <i>Node.js · React.js · MySQL</i></b></li>
+  <li>Desenvolvedor Full-Stack (dez de 2022 - atual)<br><b>Competências: <i>CodeIgniter · Node.js · React.js · MySQL</b></i></li>
  </ul>
  
 ## Contatos
