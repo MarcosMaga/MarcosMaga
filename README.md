@@ -1,4 +1,4 @@
-## Olá, bem vindo ao meu perfil do GitHub 😁
+## Olá, bem vindo ao meu perfil do GitHub 😁😎
 
 🚀 Sou um <b>Programador</b>, gosto de ser generalista e conhecer sobre varias áreas da tecnologia, por isso, sei fazer um pouco de tudo! Da eletronica a robótica, da programação de baixo nivel até a de alto nível. Veja alguns dos meus conhecimentos: 
 
@@ -74,7 +74,7 @@ Veja o meu <a href="https://drive.google.com/file/d/1W7-_--TCyr94pbd98OB_b1cRMJY
  🟩🟩🟩<br>
  🟩🟩<br>
  
- IFSP - Campinas 
+ IFSP - Campinas - Análise e Desenvolvimento de Sistemas
  
 ## Experiências Profissionais
  <b>Estagiário de Engenharia Elétrica (jul de 2019 - ago de 2019)</b><br>
