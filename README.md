@@ -90,7 +90,7 @@ Veja o meu <a href="https://drive.google.com/file/d/1W7-_--TCyr94pbd98OB_b1cRMJY
   <li>Desenvolvedor Full-Stack (dez de 2022 - atual)<br><b>Competências: <i>CodeIgniter · Node.js · React.js · MySQL</b></i></li>
  </ul>
  
-## Contatos
+## Entre em contato
  <a href="https://www.linkedin.com/in/marcosvmagalhaes/" target="_blank"><b>LinkedIn</b></a> | <a href="mailto:marcosvmagalhaes@gmail.com" target="_blank"><b>Email</b></a> | <a href="https://api.whatsapp.com/send?phone=5519983051888&text=Ola!+Vi+seu+GitHub!" target="_blank"><b>Whatsapp</b></a>
  
 ## Nem só de <strong>código</strong> vive o homem 😎!
