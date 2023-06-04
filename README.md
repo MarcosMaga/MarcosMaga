@@ -96,4 +96,4 @@ Veja o meu <a href="https://drive.google.com/file/d/1W7-_--TCyr94pbd98OB_b1cRMJY
 ## Nem só de <strong>código</strong> vive o homem 😎!
 [![Spotify](https://novatorem-ij6667go4-marcosmaga.vercel.app/api/spotify)](https://open.spotify.com/user/22lgtynmtphzxbooilctdqxdi)
  <br>
-👆 Meu gosto é meio aleatório... 🎸🌠🔈
+👆 Meu gosto é meio aleatório... 🎸🔈
