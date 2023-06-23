@@ -64,8 +64,8 @@ Veja o meu <a href="https://drive.google.com/file/d/1W7-_--TCyr94pbd98OB_b1cRMJY
   <li>Semestre ✔ (2021)</li>
   <li>Semestre ✔ (2022)</li>
   <li>Semestre ✔ (2022)</li>
-  <li>Semestre ⏳ (2023)</li>
-  <li>Semestre ❌ (2023)</li>
+  <li>Semestre ✔ (2023)</li>
+  <li>Semestre ⏳️ (2023)</li>
   <li>Semestre ❌ (2024)</li>
  </ol>
  
