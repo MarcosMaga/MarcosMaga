@@ -91,7 +91,7 @@ Veja o meu <a href="https://drive.google.com/file/d/1W7-_--TCyr94pbd98OB_b1cRMJY
  </ul>
  
 ## Entre em contato
- <a href="https://www.linkedin.com/in/marcosvmagalhaes/" target="_blank"><b>LinkedIn</b></a> | <a href="mailto:marcosvmagalhaes@gmail.com" target="_blank"><b>Email</b></a> | <a href="https://api.whatsapp.com/send?phone=5519983051888&text=Ola!+Vi+seu+GitHub!" target="_blank"><b>Whatsapp</b></a>
+ <a href="https://www.linkedin.com/in/marcosvmagalhaes/" target="_blank"><b>LinkedIn</b></a> | <a href="mailto:marcosvmagalhaes@gmail.com" target="_blank"><b>Email</b></a>
  
 ## Nem só de <strong>código</strong> vive o homem 😎!!
 [![Spotify](https://novatorem-ij6667go4-marcosmaga.vercel.app/api/spotify)](https://open.spotify.com/user/22lgtynmtphzxbooilctdqxdi)
