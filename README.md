@@ -77,9 +77,6 @@ Veja o meu <a href="https://drive.google.com/file/d/1W7-_--TCyr94pbd98OB_b1cRMJY
  IFSP - Campinas - Tecnologia em Análise e Desenvolvimento de Sistemas
  
 ## Experiências Profissionais
- <b>Estagiário de Engenharia Elétrica (jul de 2019 - ago de 2019)</b><br>
- HomeCarbon Energy Solutions<br>
- 
  <b>Trainee de Desenvolvimento e Tecnologia (ago de 2021 - abr de 2022)</b><br>
  HomeCarbon Energy Solutions<br>
  
