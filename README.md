@@ -1,4 +1,4 @@
-## Olá! bem vindo ao meu perfil do GitHub! 😎😁🪐
+## Olá! bem vindo ao meu perfil do GitHub! 😁🪐
 
 🚀 Sou um <b>Programador</b>, gosto de ser generalista e conhecer sobre varias áreas da tecnologia, por isso, sei fazer um pouco de tudo! Da eletronica a robótica, da programação de baixo nivel até a de alto nível. Veja alguns dos meus conhecimentos: 
 
