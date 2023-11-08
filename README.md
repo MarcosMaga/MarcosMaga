@@ -42,7 +42,7 @@ Veja o meu <a href="https://drive.google.com/file/d/1W7-_--TCyr94pbd98OB_b1cRMJY
   <li>👨‍🏫 Professor de Desenvolvimento de Jogos (2017)</li>
   <li>👨‍🏫 Professor de Robótica (2019)</li>
   <li>👨‍🏫 Aluno Mentor de Linguagem de Programação C (2021)</li>
-  <li>👨‍🏫 Professor de Robótica (2023)</li>
+  <li>👨‍🏫 Professor de Robótica (2023 - Atualmente)</li>
  </ul>
  
  <b>- Reconhecimentos</b>
