@@ -1,6 +1,6 @@
 ## Olá! bem vindo ao meu perfil do GitHub! 😁😎🪐
 
-🚀 Sou um <b>Programador</b>, gosto de ser generalista e conhecer sobre varias áreas da tecnologia, por isso, sei fazer um pouco de tudo! Da eletronica a robótica, da programação de baixo nivel até a de alto nível. Veja alguns dos meus conhecimentos: 
+🚀 Sou um <b>Programador</b>, gosto de ser generalista e conhecer sobre varias áreas da tecnologia. Veja alguns dos meus conhecimentos: 
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,expressjs,prisma,php,html,css,python,c,cs,arduino,flask,raspberrypi,dotnet,visualstudio,vscode,firebase,git,github,java,mysql,react,unity)](https://skillicons.dev)
  
@@ -85,7 +85,7 @@ Veja o meu <a href="https://drive.google.com/file/d/1W7-_--TCyr94pbd98OB_b1cRMJY
  <ul>
   <li>Estagiário de Desenvolvimento Web (out de 2021 - mai de 2022)</li>
   <li>Desenvolvedor de Software Júnior (mai de 2022 - dez de 2022)<br><b>Competências: <i>Node.js · React.js · MySQL</i></b></li>
-  <li>Desenvolvedor Full-Stack (dez de 2022 - atual)<br><b>Competências: <i>CodeIgniter · Node.js · React.js · MySQL</b></i></li>
+  <li>Desenvolvedor Full-Stack (dez de 2022 - atual)<br><b>Competências: <i>PHP · Node.js · React.js · MySQL</b></i></li>
  </ul>
  
 ## Contatos
