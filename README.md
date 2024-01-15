@@ -61,6 +61,7 @@ Veja o meu <a href="https://drive.google.com/file/d/1W7-_--TCyr94pbd98OB_b1cRMJY
  ### Ensino e Estudos
  
  <b>Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Campinas</b>
+ IFSP - Campinas - Tecnologia em Análise e Desenvolvimento de Sistemas
  <ol>
   <li>Semestre ✔ (2021)</li>
   <li>Semestre ✔ (2022)</li>
@@ -74,9 +75,7 @@ Veja o meu <a href="https://drive.google.com/file/d/1W7-_--TCyr94pbd98OB_b1cRMJY
  🟩🟩<br>
  🟩🟩🟩<br>
  🟩🟩<br>
- 
- IFSP - Campinas - Tecnologia em Análise e Desenvolvimento de Sistemas
- 
+
 ## Experiências Profissionais
  <b>Trainee de Desenvolvimento e Tecnologia (ago de 2021 - abr de 2022)</b><br>
  HomeCarbon Energy Solutions<br>
