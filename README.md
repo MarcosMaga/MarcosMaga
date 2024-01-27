@@ -2,7 +2,7 @@
 
 🚀 Sou um <b>Programador</b>, gosto de ser generalista e conhecer sobre varias áreas da tecnologia. Veja alguns dos meus conhecimentos: 
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,expressjs,prisma,php,html,css,python,c,cs,arduino,flask,raspberrypi,dotnet,visualstudio,vscode,firebase,git,github,java,mysql,react,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,expressjs,prisma,php,docker,html,css,python,c,cs,arduino,flask,raspberrypi,dotnet,visualstudio,vscode,firebase,git,github,java,mysql,react,unity)](https://skillicons.dev)
  
 <div>
 <a href="https://github.com/MarcosMaga">
