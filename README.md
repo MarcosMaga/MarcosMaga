@@ -77,8 +77,10 @@ Veja o meu <a href="https://drive.google.com/file/d/1W7-_--TCyr94pbd98OB_b1cRMJY
  🟩🟩<br>
 
 ## Experiências Profissionais
- <b>Trainee de Desenvolvimento e Tecnologia (ago de 2021 - abr de 2022)</b><br>
- HomeCarbon Energy Solutions<br>
+ <b>HomeCarbon Energy Solutions</b>
+ <ul>
+  <li>Trainee de Desenvolvimento e Tecnologia (ago de 2021 - abr de 2022)</li>
+ </ul>
  
  <b>YCONS IT Consulting</b>
  <ul>
