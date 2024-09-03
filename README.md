@@ -62,14 +62,6 @@ Veja o meu <a href="https://drive.google.com/file/d/1W7-_--TCyr94pbd98OB_b1cRMJY
  
  <b>Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Campinas</b><br>
  IFSP - Campinas - Tecnologia em Análise e Desenvolvimento de Sistemas
- <ol>
-  <li>Semestre ✔ (2021)</li>
-  <li>Semestre ✔ (2022)</li>
-  <li>Semestre ✔ (2022)</li>
-  <li>Semestre ✔ (2023)</li>
-  <li>Semestre ✔ (2023)</li>
-  <li>Semestre ⏳️ (2024)</li>
- </ol>
  
  🔴🟩🟩<br>
  🟩🟩<br>
@@ -77,9 +69,10 @@ Veja o meu <a href="https://drive.google.com/file/d/1W7-_--TCyr94pbd98OB_b1cRMJY
  🟩🟩<br>
 
 ## Experiências Profissionais
- <b>HomeCarbon Energy Solutions</b>
+
+<b>Herrlog Solutions</b>
  <ul>
-  <li>Trainee de Desenvolvimento e Tecnologia (ago de 2021 - abr de 2022)</li>
+  <li>Desenvolvedor Full-Stack (jun de 2024 - atual)</li>
  </ul>
  
  <b>YCONS IT Consulting</b>
@@ -89,10 +82,12 @@ Veja o meu <a href="https://drive.google.com/file/d/1W7-_--TCyr94pbd98OB_b1cRMJY
   <li>Desenvolvedor Full-Stack (dez de 2022 - jun de 2024)<br><b>Competências: <i>PHP · Node.js · React.js · MySQL</b></i></li>
  </ul>
 
-<b>Herrlog Solutions</b>
+ <b>HomeCarbon Energy Solutions</b>
  <ul>
-  <li>Desenvolvedor Full-Stack (jun de 2024 - atual)</li>
+  <li>Trainee de Desenvolvimento e Tecnologia (ago de 2021 - abr de 2022)</li>
  </ul>
+
+
  
 ## Contatos
  <a href="https://www.linkedin.com/in/marcosvmagalhaes/" target="_blank"><b>LinkedIn</b></a> | <a href="mailto:marcosvmagalhaes@gmail.com" target="_blank"><b>Email</b></a>
